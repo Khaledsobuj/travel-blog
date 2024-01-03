@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.main_section {
+    width: 1260px
+}
+
+.hed_section {
+    width: 100%;
+    margin: 0 auto;
+    background-color: aqua;
+    overflow: hidden;
+}
+
+.logo {
+    width: 20%;
+    padding: 5px;
+    float: left;
+
+}
+
+.logo img {
+    width: 100px;
+}
+
+.menue {
+    width: 80%;
+
+}
+
+.menue ul li {
+    display: inline;
+    margin: 15px;
+    /* padding: ; */
+}
