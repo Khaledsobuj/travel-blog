@@ -67,3 +67,28 @@
     color: cadetblue;
     text-decoration: underline;
 }
+
+.hero img {
+    width: 520px;
+    margin: 25px;
+    border: 5px solid rgb(253, 154, 154);
+    /* padding: 5px; */
+    box-shadow: 15px 15px 30px rgb(204, 88, 88);
+}
+
+.hero h3 {
+    text-align: center;
+    margin: 30px;
+    font-size: 30px;
+    /* border: 1px solid #000; */
+    font-weight: 700;
+}
+
+.hero p {
+    text-align: justify;
+    padding: 25px;
+    border: 2px solid;
+    font-size: 25px;
+    background-color: rgb(154, 208, 255);
+    margin: 25px;
+}
